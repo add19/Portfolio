@@ -23,3 +23,7 @@ $(document).ready(function(){
     $('.tap-target').tapTarget();
   });
        
+  $(document).ready(function(){
+    $('.parallax').parallax();
+  });
+        
